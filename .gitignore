@@ -1,2 +1,5 @@
 *.pyc
 __pycache__/
+.venv/
+MLStudy/*
+.vscode/settings.json
